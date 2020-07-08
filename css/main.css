@@ -2590,7 +2590,7 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #44c19f;
+  background: #1ae3f5;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2610,4 +2610,10 @@ ul.breadcrumb li + li:last-child {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+body {
+  background: url("/images/7.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
 }
