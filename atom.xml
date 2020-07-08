@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-06-27T11:20:25.133Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>ZZM</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>firstblog</title>
+    <link href="http://yoursite.com/2020/06/27/firstblog/"/>
+    <id>http://yoursite.com/2020/06/27/firstblog/</id>
+    <published>2020-06-27T11:20:25.133Z</published>
+    <updated>2020-06-27T11:20:25.133Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>welcome to ZZM blog</title>
+    <link href="http://yoursite.com/2020/06/17/hello-world/"/>
+    <id>http://yoursite.com/2020/06/17/hello-world/</id>
+    <published>2020-06-17T10:13:04.181Z</published>
+    <updated>2020-06-27T15:08:44.972Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;……..wait（建设中）&lt;/p&gt;
+
+        &lt;h2 id=&quot;6-17&quot;   &gt;
+          &lt;a href=&quot;#6-17&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;undefined&quot;&gt;&lt;/i&gt;&lt;/a&gt;6.17&lt;/h2&gt;
+     
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
